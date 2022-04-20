@@ -1,0 +1,28 @@
+{
+	"data": {
+		"getEstimate": {
+			"id": 60690921,
+			"total": 80429.22,
+			"car": {
+				"year": "2020",
+				"make": "Volkswagen",
+				"model": "Virtus",
+				"vin": "9BWDH5BZ8LP100268",
+				"color": "BRANCA",
+				"mileage": "38560",
+				"plateNumber": "FRM6H36"
+			},
+			"customer": {
+				"name": "Joanes Alves dos Santos",
+				"email": "jalve1@icloud.com",
+				"city": "Barueri",
+				"identity": "14021832831",
+				"street": "Rua:R: Sebastião Davino dos Reis",
+				"streetNumber": "999",
+				"complement": "BL B apto 106",
+				"district": "Jd Tupanci",
+				"postalCode": "06414-007"
+			}
+		}
+	}
+}
